@@ -240,4 +240,4 @@ This repository serves as the official landing page for SimpleOCR. The software 
 **Get the most recent version of SimpleOCR today!**
 
 ---
-**Last updated:** 2026-10-02 15:21:12 UTC
+**Last updated:** 2026-10-02 20:19:49 UTC
